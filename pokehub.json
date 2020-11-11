@@ -311,5 +311,114 @@
       "num": "012",
       "name": "Butterfree"
     }]
-  }]
+  }, {
+    "id": 11,
+    "num": "111",
+    "name": "Rhyhorn",
+    "img": "https://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "Tierra", "Roca"
+    ],
+    "height": "1.0 m",
+    "weight": "115 kg",
+    "candy": "",
+    "candy_count": 0,
+    "egg": "0 km",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "0:00",
+    "multipliers": [0.0],
+    "weaknesses": [
+      "Acero",
+      "Hielo",
+      "Agua",
+      "Lucha",
+      "Planta",
+      "Tierra"
+    ],
+    "next_evolution": [{
+      "num": "112",
+      "name": "Rhydon"
+    }, {
+      "num": "464",
+      "name": "Rhyperior"
+    }]
+  },{
+    "id": 12,
+    "num": "464",
+    "name": "Rhyperior",
+    "img": "http://www.serebii.net/pokemongo/pokemon/464.png",
+    "type": [
+      "Tierra","Roca"
+    ],
+    "height": "2.4 m",
+    "weight": "282.8 kg",
+    "candy": "",
+    "candy_count": 0,
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "0:00",
+    "multipliers": [0.0],
+    "weaknesses": [
+      "Acero",
+      "Hielo",
+      "Agua",
+      "Lucha",
+      "Planta",
+      "Tierra"
+    ],
+    "prev_evolution": [{
+      "num": "111",
+      "name": "Rhyhorn"
+    },
+      "num": "112",
+      "name": "Rhydon"
+    {
+    }],
+  }, 
+  {
+    "id": 0,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/017.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0.0 kg",
+    "candy": "",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": 0.0,
+    "weaknesses": ["",""],
+    "prev_evolution": [{"num": "","name": ""}, {"num": "","name": ""}],
+    "next_evolution": [{"num": "","name": ""}]
+  },      
+  {
+    "id": 0,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/073.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0.0 kg",
+    "candy": "",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": 0.0,
+    "weaknesses": ["",""],
+    "prev_evolution": [{"num": "","name": ""}, {"num": "","name": ""}],
+    "next_evolution": [{"num": "","name": ""}]
+  },      
+              
+]
 }
