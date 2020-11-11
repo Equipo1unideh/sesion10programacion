@@ -348,9 +348,7 @@
     "num": "464",
     "name": "Rhyperior",
     "img": "http://www.serebii.net/pokemongo/pokemon/464.png",
-    "type": [
-      "Tierra","Roca"
-    ],
+    "type": ["Tierra","Roca"],
     "height": "2.4 m",
     "weight": "282.8 kg",
     "candy": "",
@@ -360,32 +358,15 @@
     "avg_spawns": 0.0,
     "spawn_time": "0:00",
     "multipliers": [0.0],
-    "weaknesses": [
-      "Acero",
-      "Hielo",
-      "Agua",
-      "Lucha",
-      "Planta",
-      "Tierra"
-    ],
-    "prev_evolution": [{
-      "num": "111",
-      "name": "Rhyhorn"
-    },
-      "num": "112",
-      "name": "Rhydon"
-    {
-    }],
+    "weaknesses": ["Acero","Hielo","Agua","Lucha","Planta","Tierra"],
+    "prev_evolution": [{"num": "111","name": "Rhyhorn"},{"num": "112","name": "Rhydon"}],
   }, 
   {
-    "id": 0,
+    "id": 13,
     "num": "",
     "name": "",
     "img": "http://www.serebii.net/pokemongo/pokemon/017.png",
-    "type": [
-      "",
-      ""
-    ],
+    "type": ["",""],
     "height": "0.0 m",
     "weight": "0.0 kg",
     "candy": "",
@@ -399,14 +380,11 @@
     "next_evolution": [{"num": "","name": ""}]
   },      
   {
-    "id": 0,
+    "id": 14,
     "num": "",
     "name": "",
     "img": "http://www.serebii.net/pokemongo/pokemon/073.png",
-    "type": [
-      "",
-      ""
-    ],
+    "type": ["",""],
     "height": "0.0 m",
     "weight": "0.0 kg",
     "candy": "",
