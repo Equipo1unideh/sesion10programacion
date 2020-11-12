@@ -958,8 +958,6 @@
       "Fantasma",
       "Agua",
       "Hielo",
-      "Siniestro",
-      "Planta",
       "Bicho"
     ],
     "prev_evolution": [{
@@ -1134,364 +1132,299 @@
       }]
   }, {
     "id": 40,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "489",
+    "name": "Phione",
+    "img": "http://www.serebii.net/pokemongo/pokemon/489.png",
     "type": [
-      "",
-      ""
+      "Agua"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
+    "height": "0.4 m",
+    "weight": "3.1 kg",
+    "candy": "Phione Candy",
+    "egg": "3 km",
+    "spawn_chance": 0.07,
+    "avg_spawns": 0.06,
+    "spawn_time": "00:09",
     "multipliers": null,  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Planta",
+      "Eléctrico"
     ],
-    "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
-    }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "0",
+      "name": "Este Pokémon no evoluciona"
+      }]
   }, {
     "id": 41,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "502",
+    "name": "Dewott",
+    "img": "http://www.serebii.net/pokemongo/pokemon/502.png",
     "type": [
-      "",
-      ""
+      "Agua"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
-    "multipliers": null,  
+    "height": "0.8 m",
+    "weight": "24.5 kg",
+    "candy": "Dewott Candy",
+    "egg": "4 km",
+    "spawn_chance": 0.065,
+    "avg_spawns": 0.04,
+    "spawn_time": "00:12",
+    "multipliers": [1.5],  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Planta",
+      "Eléctrico"
     ],
     "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
+      "num": "501",
+      "name": "Oshawott"
     }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "503",
+      "name": "Samurott"
+      }]
   }, {
     "id": 42,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "512",
+    "name": "Simisage",
+    "img": "http://www.serebii.net/pokemongo/pokemon/512.png",
     "type": [
-      "",
-      ""
+      "Planta"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
+    "height": "1.1 m",
+    "weight": "30.5 kg",
+    "candy": "Simisage Candy",
+    "egg": "5 km",
+    "spawn_chance": 0.12,
+    "avg_spawns": 0.07,
+    "spawn_time": "00:14",
     "multipliers": null,  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Fuego",
+      "Volador",
+      "Hielo",
+      "Bicho"
     ],
     "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
+      "num": "511",
+      "name": "Pansage"
     }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "0",
+      "name": "Esta es la evolución final"
+      }]
   }, {
     "id": 43,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "555",
+    "name": "Darmanitan",
+    "img": "http://www.serebii.net/pokemongo/pokemon/555.png",
     "type": [
-      "",
-      ""
+      "Fuego"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
+    "height": "1.3 m",
+    "weight": "92.9 kg",
+    "candy": "Darmanitan Candy",
+    "egg": "4 km",
+    "spawn_chance": 0.091,
+    "avg_spawns": 0.015,
+    "spawn_time": "00:08",
     "multipliers": null,  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
+      "num": "554",
+      "name": "Darumaka"
     }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "0",
+      "name": "Esta es la evolución final"
+      }]
   }, {
     "id": 44,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "593",
+    "name": "Jellicent",
+    "img": "http://www.serebii.net/pokemongo/pokemon/593.png",
     "type": [
-      "",
-      ""
+      "Agua",
+      "Fantasma"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
+    "height": "2.2 m",
+    "weight": "135.0 kg",
+    "candy": "Jellicent Candy",
+    "egg": "3 km",
+    "spawn_chance": 0.046,
+    "avg_spawns": 0.07,
+    "spawn_time": "00:12",
     "multipliers": null,  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Fantasma",
+      "Siniestro",
+      "Planta",
+      "Eléctrico"
     ],
     "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
+      "num": "592",
+      "name": "Frillish"
     }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "0",
+      "name": "Esta es la evolución final"
+      }]
   }, {
     "id": 45,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "607",
+    "name": "Litwick",
+    "img": "http://www.serebii.net/pokemongo/pokemon/607.png",
     "type": [
-      "",
-      ""
+      "Fantasma",
+      "Fuego"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
-    "multipliers": null,  
+    "height": "0.3 m",
+    "weight": "3.1 kg",
+    "candy": "Litwick Candy",
+    "egg": "1 km",
+    "spawn_chance": 0.03,
+    "avg_spawns": 0.04,
+    "spawn_time": "00:06",
+    "multipliers": [1.5],  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Fantasma",
+      "Tierra",
+      "Agua",
+      "Roca"
     ],
-    "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
-    }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
+      "num": "608",
+      "name": "Lampent"
       },{
-        "num": "",
-        "name": ""
+        "num": "609",
+        "name": "Chandelure"
     }]
   }, {
     "id": 46,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "697",
+    "name": "Tyrantrum",
+    "img": "http://www.serebii.net/pokemongo/pokemon/697.png",
     "type": [
-      "",
-      ""
+      "Roca",
+      "Dragón"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
+    "height": "2.5 m",
+    "weight": "270 kg",
+    "candy": "Tyrantrum Candy",
+    "egg": "5 km",
+    "spawn_chance": 0.19,
+    "avg_spawns": 0.09,
+    "spawn_time": "00:21",
     "multipliers": null,  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Acero",
+      "Lucha",
+      "Dragón",
+      "Hielo"
     ],
     "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
+      "num": "696",
+      "name": "Tyrunt"
     }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "0",
+      "name": "Esta es la evolución final"
+      }]
   }, {
     "id": 47,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "500",
+    "name": "Emboar",
+    "img": "http://www.serebii.net/pokemongo/pokemon/500.png",
     "type": [
-      "",
-      ""
+      "Fuego",
+      "Lucha"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
+    "height": "1.6 m",
+    "weight": "150 kg",
+    "candy": "Emboar Candy",
+    "egg": "3 km",
+    "spawn_chance": 0.097,
+    "avg_spawns": 0.019,
+    "spawn_time": "00:15",
     "multipliers": null,  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Agua",
+      "Psíquico",
+      "Volador",
+      "Tierra"
     ],
     "prev_evolution": [{
-      "num": "",
-      "name": ""
+      "num": "498",
+      "name": "Tepig"
     }, {
-      "num": "",
-      "name": ""
+      "num": "499",
+      "name": "Pignite"
     }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "0",
+      "name": "Esta es la evolución final"
+      }]
   }, {
     "id": 48,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "716",
+    "name": "Xerneas",
+    "img": "http://www.serebii.net/pokemongo/pokemon/716.png",
     "type": [
-      "",
-      ""
+      "Hada"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
+    "height": "3.0 m",
+    "weight": "215 kg",
+    "candy": "Xerneas Candy",
+    "egg": "6 km",
+    "spawn_chance": 0.16,
+    "avg_spawns": 0.07,
+    "spawn_time": "00:17",
     "multipliers": null,  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Acero",
+      "Veneno"
     ],
-    "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
-    }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "0",
+      "name": "Este Pokemón no evoluciona"
+      }]
   }, {
     "id": 49,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "376",
+    "name": "Metagross",
+    "img": "http://www.serebii.net/pokemongo/pokemon/376.png",
     "type": [
-      "",
-      ""
+      "Acero",
+      "Psíquico"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
+    "height": "1.6 m",
+    "weight": "550 kg",
+    "candy": "Metagross Candy",
+    "egg": "4 km",
+    "spawn_chance": 0.078,
+    "avg_spawns": 0.06,
+    "spawn_time": "00:23",
     "multipliers": null,  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Fantasma",
+      "Fuego",
+      "Siniestro",
+      "Tierra"
     ],
     "prev_evolution": [{
-      "num": "",
-      "name": ""
+      "num": "374",
+      "name": "Beldum"
     }, {
-      "num": "",
-      "name": ""
+      "num": "375",
+      "name": "Metang"
     }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "0",
+      "name": "Esta es la evolución final"
+      }]
   }, {
     "id": 50,
     "num": "010",
