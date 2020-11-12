@@ -612,186 +612,139 @@
       }]
   }, {
     "id": 21,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "084",
+    "name": "Doduo",
+    "img": "http://www.serebii.net/pokemongo/pokemon/084.png",
     "type": [
-      "",
-      ""
+      "Normal",
+      "Volador"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
-    "multipliers": null,  
+    "height": "1.4 m",
+    "weight": "39.2 kg",
+    "candy": "Doduo Candy",
+    "egg": "1 km",
+    "spawn_chance": 0.089,
+    "avg_spawns": 0.07,
+    "spawn_time": "00:21",
+    "multipliers": [1.9],  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Eléctrico",
+      "Hielo",
+      "Roca"
     ],
-    "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
-    }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "085",
+      "name": "Dodrio"
+      }]
   }, {
     "id": 22,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "090",
+    "name": "Shellder",
+    "img": "http://www.serebii.net/pokemongo/pokemon/090.png",
     "type": [
-      "",
-      ""
+      "Agua"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
-    "multipliers": null,  
+    "height": "0.3 m",
+    "weight": "4.0 kg",
+    "candy": "Shellder Candy",
+    "egg": "5 km",
+    "spawn_chance": 0.061,
+    "avg_spawns": 0.10,
+    "spawn_time": "00:24",
+    "multipliers": [1.4],  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Planta",
+      "Eléctrico"
     ],
-    "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
-    }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "091",
+      "name": "Cloyster"
+      }]
   }, {
     "id": 23,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "099",
+    "name": "kingler",
+    "img": "http://www.serebii.net/pokemongo/pokemon/099.png",
     "type": [
-      "",
-      ""
+      "Agua"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
+    "height": "1.3 m",
+    "weight": "60.0 kg",
+    "candy": "Kingler Candy",
+    "egg": "3 km",
+    "spawn_chance": 0.046,
+    "avg_spawns": 0.018,
+    "spawn_time": "00:12",
     "multipliers": null,  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Planta",
+      "Eléctrico"
     ],
     "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
+      "num": "098",
+      "name": "Krabby"
     }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "0",
+      "name": "Esta es la evolucion final"
+      }]
   }, 
 {
     "id": 24,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "117",
+    "name": "Seadra",
+    "img": "http://www.serebii.net/pokemongo/pokemon/117.png",
     "type": [
-      "",
-      ""
+      "Agua"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
-    "multipliers": null,  
+    "height": "1.2 m",
+    "weight": "25.0 kg",
+    "candy": "Seadra Candy",
+    "egg": "1 km",
+    "spawn_chance": 0.096,
+    "avg_spawns": 0.05,
+    "spawn_time": "00:14",
+    "multipliers": [2.1],  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Planta",
+      "Eléctrico"
     ],
     "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
+      "num": "116",
+      "name": "Horsea"
     }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "230",
+      "name": "Kingdra"
+      }]
   }, 
 {
     "id": 25,
-    "num": "",
-    "name": "",
+    "num": "025",
+    "name": "Pikachu",
     "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
     "type": [
-      "",
-      ""
+      "Eléctrico"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
-    "multipliers": null,  
+    "height": "0.4 m",
+    "weight": "6.0 kg",
+    "candy": "Pikachu Candy",
+    "egg": "3 km",
+    "spawn_chance": 0.09,
+    "avg_spawns": 0.07,
+    "spawn_time": "00:05",
+    "multipliers": [2.0],  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Tierra"
     ],
     "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
+      "num": "172",
+      "name": "Pichu"
     }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "026",
+      "name": "Raichu"
+      }]
   }, 
 {
     "id": 26,
