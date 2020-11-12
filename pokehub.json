@@ -312,8 +312,46 @@
         "num": "464",
         "name": "Rhyperior"
     }]
-  }, {
+  }, 
+{
     "id": 11,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 50,
     "num": "010",
     "name": "Caterpie",
     "img": "http://www.serebii.net/pokemongo/pokemon/010.png",
