@@ -282,8 +282,41 @@
       "num": "0",
       "name": "This is the final Evolution"
     }]
+  }, 
+{
+    "id": |0,
+    "num": "111",
+    "name": "Rhyhorn",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "Water"
+    ],
+    "height": "1.60 m",
+    "weight": "85.5 kg",
+    "candy": "Squirtle Candy",
+    "egg": "Not in Eggs",
+    "spawn_chance": 0.0067,
+    "avg_spawns": 0.67,
+    "spawn_time": "00:06",
+    "multipliers": null,
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "112",
+      "name": "Squirtle"
+    }, {
+      "num": "464",
+      "name": "Wartortle"
+    }],
+    
+      "next_evolution": [{
+      "num": "0",
+      "name": "This is the final Evolution"
+    }]
   }, {
-    "id": 10,
+    "id": 11,
     "num": "010",
     "name": "Caterpie",
     "img": "http://www.serebii.net/pokemongo/pokemon/010.png",
