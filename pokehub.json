@@ -354,7 +354,7 @@
     "spawn_time": "0:00",
     "multipliers": [0.0],
     "weaknesses": ["Acero","Hielo","Agua","Lucha","Planta","Tierra"],
-    "prev_evolution": [{"num": "111","name": "Rhyhorn"},{"num": "112","name": "Rhydon"}],
+    "prev_evolution": [{"num": "111","name": "Rhyhorn"},{"num": "112","name": "Rhydon"}]
   }, 
   {
     "id": 13,
