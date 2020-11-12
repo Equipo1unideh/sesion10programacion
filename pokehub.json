@@ -294,12 +294,6 @@
     ],
     "height": "1.60 m",
     "weight": "85.5 kg",
-    "candy": "Rhyhorn Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
-    "multipliers": null,
     "weaknesses": [
       "Acero",
       "Hielo",
