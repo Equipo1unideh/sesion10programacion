@@ -1090,6 +1090,672 @@
         "name": ""
     }]
   }, 
+{
+    "id": 32,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+{
+    "id": 33,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+{
+    "id": 34,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+{
+    "id": 35,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+{
+    "id": 36,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+{
+    "id": 37,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+{
+    "id": 38,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 39,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 40,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 41,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 42,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 43,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 44,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 45,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 46,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 47,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 48,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
+  {
+    "id": 49,
+    "num": "",
+    "name": "",
+    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "type": [
+      "",
+      ""
+    ],
+    "height": "0.0 m",
+    "weight": "0 kg",
+    "candy": "Candy",
+    "egg": "",
+    "spawn_chance": 0.0,
+    "avg_spawns": 0.0,
+    "spawn_time": "00:00",
+    "multipliers": null,  
+    "weaknesses": [
+      "",
+      "",
+      ""
+    ],
+    "prev_evolution": [{
+      "num": "",
+      "name": ""
+    }, {
+      "num": "",
+      "name": ""
+    }],
+      "next_evolution": [{
+      "num": "",
+      "name": ""
+      },{
+        "num": "",
+        "name": ""
+    }]
+  }, 
   {
     "id": 50,
     "num": "010",
