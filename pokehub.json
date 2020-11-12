@@ -5,8 +5,8 @@
     "name": "Bulbasaur",
     "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "height": "0.71 m",
     "weight": "6.9 kg",
@@ -18,10 +18,10 @@
     "spawn_time": "20:00",
     "multipliers": [1.58],
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psiquico"
     ],
     "next_evolution": [{
       "num": "002",
@@ -36,10 +36,10 @@
     "name": "Ivysaur",
     "img": "http://www.serebii.net/pokemongo/pokemon/002.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
-    "height": "0.99 m",
+    "height": "1.0 m",
     "weight": "13.0 kg",
     "candy": "Bulbasaur Candy",
     "candy_count": 100,
@@ -52,10 +52,10 @@
       1.6
     ],
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psiquico"
     ],
     "prev_evolution": [{
       "num": "001",
@@ -71,8 +71,8 @@
     "name": "Venusaur",
     "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Planta",
+      "Veneno"
     ],
     "height": "2.01 m",
     "weight": "100.0 kg",
@@ -83,10 +83,10 @@
     "spawn_time": "11:30",
     "multipliers": null,
     "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
+      "Fuego",
+      "Hielo",
+      "Volador",
+      "Psiquico"
     ],
     "prev_evolution": [{
       "num": "001",
@@ -99,7 +99,7 @@
     ,
     "next_evolution": [{
       "num": "0",
-      "name": "This is the final Evolution"
+      "name": "Esta es la evolución final"
     }]
   }, {
     "id": 4,
@@ -107,7 +107,7 @@
     "name": "Charmander",
     "img": "http://www.serebii.net/pokemongo/pokemon/004.png",
     "type": [
-      "Fire"
+      "Fuego"
     ],
     "height": "0.61 m",
     "weight": "8.5 kg",
@@ -119,9 +119,9 @@
     "spawn_time": "08:45",
     "multipliers": [1.65],
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "next_evolution": [{
       "num": "005",
@@ -136,9 +136,9 @@
     "name": "Charmeleon",
     "img": "http://www.serebii.net/pokemongo/pokemon/005.png",
     "type": [
-      "Fire"
+      "Fuego"
     ],
-    "height": "1.09 m",
+    "height": "1.1 m",
     "weight": "19.0 kg",
     "candy": "Charmander Candy",
     "candy_count": 100,
@@ -148,9 +148,9 @@
     "spawn_time": "19:00",
     "multipliers": [1.79],
     "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
+      "Agua",
+      "Tierra",
+      "Roca"
     ],
     "prev_evolution": [{
       "num": "004",
@@ -166,8 +166,8 @@
     "name": "Charizard",
     "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
     "type": [
-      "Fire",
-      "Flying"
+      "Fuego",
+      "Volador"
     ],
     "height": "1.70 m",
     "weight": "90.5 kg",
@@ -178,9 +178,9 @@
     "spawn_time": "13:34",
     "multipliers": null,
     "weaknesses": [
-      "Water",
-      "Electric",
-      "Rock"
+      "Agua",
+      "Electrico",
+      "Roca"
     ],
     "prev_evolution": [{
       "num": "004",
@@ -199,7 +199,7 @@
     "name": "Squirtle",
     "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
     "type": [
-      "Water"
+      "Agua"
     ],
     "height": "0.51 m",
     "weight": "9.0 kg",
@@ -211,8 +211,8 @@
     "spawn_time": "04:25",
     "multipliers": [2.1],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Planta",
+      "Eléctrico"
     ],
     "next_evolution": [{
       "num": "008",
@@ -227,7 +227,7 @@
     "name": "Wartortle",
     "img": "http://www.serebii.net/pokemongo/pokemon/008.png",
     "type": [
-      "Water"
+      "Agua"
     ],
     "height": "0.99 m",
     "weight": "22.5 kg",
@@ -239,8 +239,8 @@
     "spawn_time": "07:02",
     "multipliers": [1.4],
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Planta",
+      "Eléctrico"
     ],
     "prev_evolution": [{
       "num": "007",
@@ -256,7 +256,7 @@
     "name": "Blastoise",
     "img": "http://www.serebii.net/pokemongo/pokemon/009.png",
     "type": [
-      "Water"
+      "Agua"
     ],
     "height": "1.60 m",
     "weight": "85.5 kg",
@@ -267,8 +267,8 @@
     "spawn_time": "00:06",
     "multipliers": null,
     "weaknesses": [
-      "Electric",
-      "Grass"
+      "Planta",
+      "Electrico"
     ],
     "prev_evolution": [{
       "num": "007",
@@ -280,7 +280,7 @@
     
       "next_evolution": [{
       "num": "0",
-      "name": "This is the final Evolution"
+      "name": "Esta es la evolución final"
     }]
   }, 
 {
@@ -296,14 +296,15 @@
     "weight": "115 kg",
     "candy": "Rhyhorn Candy",
     "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
-    "multipliers": null,  
+    "spawn_chance": 0.05,
+    "avg_spawns": 0.04,
+    "spawn_time": "00:09",
+    "multipliers": [1.3],  
     "weaknesses": [
       "Acero",
       "Hielo",
-      "lucha"
+      "lucha",
+      "Tierra"
     ],
       "next_evolution": [{
       "num": "112",
@@ -315,77 +316,63 @@
   }, 
 {
     "id": 11,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "016",
+    "name": "Pidgey",
+    "img": "http://www.serebii.net/pokemongo/pokemon/016.png",
     "type": [
-      "",
-      ""
+      "Normal",
+      "Volador"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
-    "multipliers": null,  
+    "height": "0.3 m",
+    "weight": "1.8 kg",
+    "candy": "Pidgey Candy",
+    "egg": "2 km",
+    "spawn_chance": 0.054,
+    "avg_spawns": 0.04,
+    "spawn_time": "00:07",
+    "multipliers": [1.6],  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Electrico",
+      "Hielo",
+      "Roca"
     ],
-    "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
-    }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
+      "num": "017",
+      "name": "Pidgeotto"
       },{
-        "num": "",
-        "name": ""
+        "num": "018",
+        "name": "Pidgeot"
     }]
   }, 
 {
     "id": 12,
-    "num": "",
-    "name": "",
-    "img": "http://www.serebii.net/pokemongo/pokemon/111.png",
+    "num": "028",
+    "name": "Sandslash",
+    "img": "http://www.serebii.net/pokemongo/pokemon/028.png",
     "type": [
-      "",
-      ""
+      "Tierra"
     ],
-    "height": "0.0 m",
-    "weight": "0 kg",
-    "candy": "Candy",
-    "egg": "",
-    "spawn_chance": 0.0,
-    "avg_spawns": 0.0,
-    "spawn_time": "00:00",
+    "height": "1.0 m",
+    "weight": "29.5 kg",
+    "candy": "Sandslash Candy",
+    "egg": "3 km",
+    "spawn_chance": 0.10,
+    "avg_spawns": 0.09,
+    "spawn_time": "00:10",
     "multipliers": null,  
     "weaknesses": [
-      "",
-      "",
-      ""
+      "Agua",
+      "Planta",
+      "Hielo"
     ],
     "prev_evolution": [{
-      "num": "",
-      "name": ""
-    }, {
-      "num": "",
-      "name": ""
+      "num": "027",
+      "name": "Sansshrew"
     }],
       "next_evolution": [{
-      "num": "",
-      "name": ""
-      },{
-        "num": "",
-        "name": ""
-    }]
+      "num": "0",
+      "name": "Esta es la evolución final"
+      }]
   },
 {
     "id": 13,
